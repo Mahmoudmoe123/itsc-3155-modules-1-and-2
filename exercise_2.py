@@ -1,3 +1,4 @@
+#Exercise2
 yourstring = input("Please Enter a string: ")
 lowadd = ""
 upadd = ""
